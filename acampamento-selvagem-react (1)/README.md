@@ -20,4 +20,3 @@ Abra o endereço mostrado pelo Vite no terminal.
 - CSS Modules para limitar os estilos ao componente;
 - TypeScript para definir o formato do estado.
 
-Leia `GUIA_DE_APRESENTACAO.md` antes de apresentar o trabalho.
